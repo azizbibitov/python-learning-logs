@@ -14,6 +14,3 @@ six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a
 sqlparse==0.5.1
 tomli==2.0.1
 typing_extensions==4.12.2
-# Requirements for live project.
-gunicorn
-psycopg2

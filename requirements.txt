@@ -1,0 +1,19 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.8.1
+Django==4.2.16
+django-bootstrap5==24.2
+exceptiongroup==1.2.2
+future @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+iniconfig==2.0.0
+macholib @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+packaging==24.1
+platformshconfig==2.4.0
+pluggy==1.5.0
+pytest==8.3.2
+six @ file:///AppleInternal/Library/BuildRoots/9dd5efe2-7fad-11ee-b588-aa530c46a9ea/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sqlparse==0.5.1
+tomli==2.0.1
+typing_extensions==4.12.2
+# Requirements for live project.
+gunicorn
+psycopg2
